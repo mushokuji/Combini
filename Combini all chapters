@@ -1,0 +1,30 @@
+{
+  "title": "Combini de Kimi to no 5 fun kan",
+  "description": "The Office Lady, who looks forward to stopping by at the convenience store on the way home from work. And Shibasaki-kun, the poker-faced high school part-timer, who gets stirred up by OL for some reason. A heartwarming manga about two people who pass by each other at the convenience store.",
+  "artist": "ICHINAGA Nozomi",
+  "author": "ICHINAGA Nozomi",
+  "cover": "https://i.imgur.com/HNfBGll.png",
+  "chapters": {
+    "01": {
+      "volume": "1",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/hL9DFzA/"
+      },
+      "last_updated": "1626075038"
+    },
+    "02": {
+      "volume": "1",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/kxGMign/"
+      },
+      "last_updated": "1626075038"
+    },
+    "03": {
+      "volume": "1",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/CWziqFn/"
+      },
+      "last_updated": "1626075038"
+    }
+  }
+}
