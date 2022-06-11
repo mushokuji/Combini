@@ -410,6 +410,20 @@
         "Mushokuji": "/proxy/api/imgur/chapter/iNBUYwB/"
       },
       "last_updated": "1653681089"
+    },
+         "54": {
+      "volume": "4",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/6vfOBY2/"
+      },
+      "last_updated": "1654932630"
+    },
+         "55": {
+      "volume": "4",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/msCYQRC/"
+      },
+      "last_updated": "1654932870"
     }
   }
 }
