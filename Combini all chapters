@@ -3,7 +3,7 @@
   "description": "The Office Lady, who looks forward to stopping by at the convenience store on the way home from work. And Shibasaki-kun, the poker-faced high school part-timer, who gets stirred up by OL for some reason. A heartwarming manga about two people who pass by each other at the convenience store.",
   "artist": "ICHINAGA Nozomi",
   "author": "ICHINAGA Nozomi",
-  "cover": "https://i.imgur.com/vl9EcNW.png",
+  "cover": "https://i.imgur.com/JCdSeUG.png",
   "chapters": {
     "01": {
       "volume": "1",
@@ -590,6 +590,13 @@
       "volume": "5",
       "groups": {
         "Mushokuji": "/proxy/api/imgur/chapter/b8iDN39/"
+      },
+      "last_updated": "1695710692"
+    },
+     "78": {
+      "volume": "6",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/AMdonga/"
       },
       "last_updated": "1695710692"
     }
